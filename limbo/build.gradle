@@ -4,14 +4,14 @@ plugins {
 }
 
 ext {
-    PUBLISH_GROUP_ID = 'io.izpakla'
-    PUBLISH_VERSION = '0.0.1'
+    PUBLISH_GROUP_ID = 'io.github.izpakla'
+    PUBLISH_VERSION = '0.0.2'
     PUBLISH_ARTIFACT_ID = 'limbo-ext'
 
     PUBLISH_DESCRIPTION = 'Limbo Android Extensions'
     PUBLISH_URL = 'https://github.com/izpakla/limbo-ext'
     PUBLISH_LICENSE_NAME = 'Apache License'
-    PUBLISH_LICENSE_URL = 'https://github.com/izpakla/limbo-ext/blob/master/LICENSE'
+    PUBLISH_LICENSE_URL = 'https://github.com/izpakla/limbo-ext/blob/master/LICENSE.md'
     PUBLISH_DEVELOPER_ID = 'izpakla'
     PUBLISH_DEVELOPER_NAME = 'Dusan Zivkovic'
     PUBLISH_DEVELOPER_EMAIL = 'dulepn88@gmail.com'

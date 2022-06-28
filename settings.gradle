@@ -12,6 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Handy Extensions"
+rootProject.name = "limbo-ext"
 include ':app'
 include ':limbo'
