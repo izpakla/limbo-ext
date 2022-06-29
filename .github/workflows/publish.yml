@@ -20,8 +20,8 @@ jobs:
       - name: Release build
         run: ./gradlew :limbo:assembleRelease
 
-      - name: Source jar and dokka
-        run: ./gradlew androidSourcesJar javadocJar
+#      - name: Source jar and dokka
+#        run: ./gradlew androidSourcesJar javadocJar
 
       - name: Create secrets file
         env:
